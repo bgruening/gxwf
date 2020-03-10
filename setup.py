@@ -62,7 +62,7 @@ setup(
     # Use the URL to the github repo.
     url= 'https://github.com/simonbray/gxwf',
     download_url=(
-        f'https://github.com/simonbray/'
+        f'https://github.com/simonbray/',
         f'gxwf/archive/{version}.tar.gz'
     ),
     keywords=[
